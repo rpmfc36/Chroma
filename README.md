@@ -1,0 +1,2 @@
+# Chroma
+Tradução pt-pt
